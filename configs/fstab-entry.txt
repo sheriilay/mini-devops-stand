@@ -1,0 +1,1 @@
+﻿/var/lib/images/artifacts.img /srv/artifacts ext4 loop,defaults 0 0
